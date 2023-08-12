@@ -1,3 +1,6 @@
 [submodule "சுடோகுஉவபே"]
 	path = சுடோகுஉவபே
 	url = https://github.com/247i/USBSudoku.git
+[submodule "சுடோகு"]
+	path = சுடோகு
+	url = https://github.com/247i/Sudoku.git
