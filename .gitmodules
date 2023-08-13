@@ -4,3 +4,6 @@
 [submodule "சுடோகு"]
 	path = சுடோகு
 	url = https://github.com/247i/Sudoku.git
+[submodule "சாளரஅட்டை"]
+	path = சாளரஅட்டை
+	url = https://github.com/247i/winboard.git
