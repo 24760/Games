@@ -1,5 +1,36 @@
 # விளையாட்டுகள்
-
-- git submodule add https://github.com/247i/USBSudoku.git சுடோகுஉவபே
+- git submodule add https://github.com/247i/2048.git 2048 
+- git submodule add https://github.com/247i/ChessBrutal.git சதுரங்கம்கொடூரம்
+- git submodule add https://github.com/247i/ChessLucas.git சதுரங்கம்லூகாசு
+- git submodule add https://github.com/247i/ChessLucasR.git சதுரங்கம்-லூகாசு
+- git submodule add https://github.com/247i/Golly.git கோலி 
+- git submodule add https://github.com/247i/HexHop.git ஆறில்தாண்டு 
+- git submodule add https://github.com/247i/IcyTower.git பனிக்கோபுரம்
+- git submodule add https://github.com/247i/Jooleem.git சூலீம்
+- git submodule add https://github.com/247i/LMarbles.git இலபளிங்குகற்கள்
+- git submodule add https://github.com/247i/MidTown.git நடுநகரம்
+- git submodule add https://github.com/247i/Mines-Perfect.git சுரங்கங்கள்-சரியான
+- git submodule add https://github.com/247i/OpenTTD.git திறந்தடிடிடீ 
+- git submodule add https://github.com/247i/Pathological.git நோயியல் 
+- git submodule add https://github.com/247i/Pingus.git பிங்கச்
+- git submodule add https://github.com/247i/PocketTanks.git சட்டைப்பைதொட்டிகள்  
+- git submodule add https://github.com/247i/PushOver.git மேலேதள்ளு
+- git submodule add https://github.com/247i/Puzzles.git புதிர்கள் 
+- git submodule add https://github.com/247i/RocksDiamonds.git பாறைகள்மவைரங்கள்
 - git submodule add https://github.com/247i/Sudoku.git சுடோகு
-- git submodule add https://github.com/247i/winboard.git சாளரஅட்டை 
+- git submodule add https://github.com/247i/SudokuSimple.git சுடோகுஎளிய
+- git submodule add https://github.com/247i/SudokuUSB.git சுடோகுஉவபே
+- git submodule add https://github.com/247i/SuperTux.git சூப்பர்டுக்சு
+- git submodule add https://github.com/247i/T-3.git டே-3 
+- git submodule add https://github.com/247i/Tick5.git உண்ணி5
+- git submodule add https://github.com/247i/TileWorld.git ஓடுஉலகம் 
+- git submodule add https://github.com/247i/TwinDistress.git இரட்டைஅழுத்தமின்மை
+- git submodule add https://github.com/247i/VolleyBall.git கைப்பந்து
+- git submodule add https://github.com/247i/WAtomic.git சாஅனு 
+- git submodule add https://github.com/247i/WinBoard.git சாளரஅட்டை
+- git submodule add https://github.com/247i/Wizznic.git விசுநிக்
+- git submodule add https://github.com/247i/Xye.git ஒஓ 
+- git submodule add https://github.com/247i/Zaz.git சாச் 
+
+
+
