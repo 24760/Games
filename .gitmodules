@@ -7,3 +7,6 @@
 [submodule "சாளரஅட்டை"]
 	path = சாளரஅட்டை
 	url = https://github.com/247i/winboard.git
+[submodule "புதிர்கள்"]
+	path = புதிர்கள்
+	url = https://github.com/247i/Puzzles.git
