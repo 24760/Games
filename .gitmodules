@@ -10,3 +10,6 @@
 [submodule "புதிர்கள்"]
 	path = புதிர்கள்
 	url = https://github.com/247i/Puzzles.git
+[submodule "சாச்"]
+	path = சாச்
+	url = https://github.com/247i/Zaz.git
