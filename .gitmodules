@@ -13,3 +13,6 @@
 [submodule "சாச்"]
 	path = சாச்
 	url = https://github.com/247i/Zaz.git
+[submodule "ஒஓ"]
+	path = ஒஓ
+	url = https://github.com/247i/Xye.git
