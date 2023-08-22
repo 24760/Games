@@ -16,3 +16,81 @@
 [submodule "ஒஓ"]
 	path = ஒஓ
 	url = https://github.com/247i/Xye.git
+[submodule "2048"]
+	path = 2048
+	url = https://github.com/247i/2048.git
+[submodule "சதுரங்கம்கொடூரம்"]
+	path = சதுரங்கம்கொடூரம்
+	url = https://github.com/247i/ChessBrutal.git
+[submodule "சதுரங்கம்லூகாசு"]
+	path = சதுரங்கம்லூகாசு
+	url = https://github.com/247i/ChessLucas.git
+[submodule "கோலி"]
+	path = கோலி
+	url = https://github.com/247i/Golly.git
+[submodule "சதுரங்கம்-லூகாசு"]
+	path = சதுரங்கம்-லூகாசு
+	url = https://github.com/247i/ChessLucasR.git
+[submodule "ஆறில்தாண்டு"]
+	path = ஆறில்தாண்டு
+	url = https://github.com/247i/HexHop.git
+[submodule "பனிக்கோபுரம்"]
+	path = பனிக்கோபுரம்
+	url = https://github.com/247i/IcyTower.git
+[submodule "சூலீம்"]
+	path = சூலீம்
+	url = https://github.com/247i/Jooleem.git
+[submodule "இலபளிங்குகற்கள்"]
+	path = இலபளிங்குகற்கள்
+	url = https://github.com/247i/LMarbles.git
+[submodule "நடுநகரம்"]
+	path = நடுநகரம்
+	url = https://github.com/247i/MidTown.git
+[submodule "சுரங்கங்கள்-சரியான"]
+	path = சுரங்கங்கள்-சரியான
+	url = https://github.com/247i/Mines-Perfect.git
+[submodule "திறந்தடிடிடீ"]
+	path = திறந்தடிடிடீ
+	url = https://github.com/247i/OpenTTD.git
+[submodule "நோயியல்"]
+	path = நோயியல்
+	url = https://github.com/247i/Pathological.git
+[submodule "பிங்கச்"]
+	path = பிங்கச்
+	url = https://github.com/247i/Pingus.git
+[submodule "சட்டைப்பைதொட்டிகள்"]
+	path = சட்டைப்பைதொட்டிகள்
+	url = https://github.com/247i/PocketTanks.git
+[submodule "மேலேதள்ளு"]
+	path = மேலேதள்ளு
+	url = https://github.com/247i/PushOver.git
+[submodule "பாறைகள்மவைரங்கள்"]
+	path = பாறைகள்மவைரங்கள்
+	url = https://github.com/247i/RocksDiamonds.git
+[submodule "சுடோகுஎளிய"]
+	path = சுடோகுஎளிய
+	url = https://github.com/247i/SudokuSimple.git
+[submodule "டே-3"]
+	path = டே-3
+	url = https://github.com/247i/T-3.git
+[submodule "சூப்பர்டுக்சு"]
+	path = சூப்பர்டுக்சு
+	url = https://github.com/247i/SuperTux.git
+[submodule "உண்ணி5"]
+	path = உண்ணி5
+	url = https://github.com/247i/Tick5.git
+[submodule "ஓடுஉலகம்"]
+	path = ஓடுஉலகம்
+	url = https://github.com/247i/TileWorld.git
+[submodule "இரட்டைஅழுத்தமின்மை"]
+	path = இரட்டைஅழுத்தமின்மை
+	url = https://github.com/247i/TwinDistress.git
+[submodule "கைப்பந்து"]
+	path = கைப்பந்து
+	url = https://github.com/247i/VolleyBall.git
+[submodule "சாஅனு"]
+	path = சாஅனு
+	url = https://github.com/247i/WAtomic.git
+[submodule "விசுநிக்"]
+	path = விசுநிக்
+	url = https://github.com/247i/Wizznic.git
